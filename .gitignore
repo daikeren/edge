@@ -55,5 +55,5 @@ tramp
 Thumbs.db
 Desktop.ini
 
-# Project settings
-./site/
+# JetBrains
+.idea/
